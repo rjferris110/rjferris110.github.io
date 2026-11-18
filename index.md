@@ -1,5 +1,3 @@
-# Riley Ferris — Engineering Portfolio
-
 Welcome to my portfolio. Here is a selection of my recent engineering projects.
 
 ---
