@@ -6,8 +6,8 @@ Welcome to my portfolio. Here is a selection of my recent engineering projects.
 
 ## Featured Projects
 
-* **[Project 1: Autonomous Rover](projects/project-1.md)** — Designed and built a 4-wheel rover with custom sensor integration.
-* **[Project 2: Robotic Arm](projects/project-2.md)** — 3D-printed 4-DOF arm with inverse kinematics control.
+* **[Project 1: Formula SAE Chassis](projects/project-1.md)** — Designed and built a tube chassis for a FSAE team.
+* **[Project 2: Hybrid & Electric Go-karts](projects/project-2.md)** — Designed and built gokarts.
 
 ---
 
