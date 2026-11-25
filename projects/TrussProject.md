@@ -1,4 +1,4 @@
-** Truss Optimization Solver **
+## Truss Optimization Solver
 
 This project is centered around utilizing MATLAB to find the optimal angle and cross-sectional area given the horizontal position of the nodes and the applied forces as shown below.
 
