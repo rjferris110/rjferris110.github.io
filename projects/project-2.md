@@ -10,5 +10,5 @@ As a junior I took on the role of president of the club where I oversaw the comp
 ![EV Kart](../images/EVKart1.png)
 This is the EV go-kart. It boasts a 5KW electric motor with a 36V 105Ah LiFePo4 battery with a maximum output amperage of 400A. The gear ratio combined with the maximum RPM of the motor gives a top speed of 72 mph which is limited to lower, safer speeds to comply with campus speed limits of 25mph via the motor controller. 
 
-![Hybrid Kart](../images/HYKart1.png)
+![Hybrid Kart](../images/HYKart2.png)
 This is the Hybrid go-kart. It utilizes both a 2KW electric motor and a 6.5 HP IC engine that can run on either regular pump gas or liquid propane. The theoretical top speed of the hybrid go-kart is 37.1 mph  
