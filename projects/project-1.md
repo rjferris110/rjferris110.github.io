@@ -1,6 +1,6 @@
 ## Formula SAE Chassis
 
-One of my biggest projects has been designing and fabricating a tube chassis for my school's Formula SAE team. Due to various rules changes, switching to internal combustion from an electric powertrain, and multiple years of design without any validation this was quite the undertaking. Fortunately I had the guidance of many of my predecessors to aid me.
+	One of my biggest projects has been designing and fabricating a tube chassis for my school's Formula SAE team. Due to various rules changes, switching to internal combustion from an electric powertrain, and multiple years of design without any validation this was quite the undertaking. Fortunately I had the guidance of many of my predecessors to aid me.
 
 The first step of the design process was establishing a 2 dimensional ergonomics model in CAD based on previous driver data. This allowed me to establish the location of both the front and main hoops in such a way that they were as low as possible while meeting all rules and keeping the driver in a comfortable position. Shown below is this 2D model.
 
@@ -18,6 +18,13 @@ Once the shape of the frame was determined I was able to turn the lines into tub
 
 ![Frame_CAD](../images/Frame_CAD.png)
 
+Once the frame was fully established the next step was to check to ensure all components would fit including the powertrain, suspension, and any other crucial components. This process went fairly smooth with only a couple minor changes being required to fit the engine. Once that was confirmed the next step was to submit the frame to the rules judges to ensure that the frame was fully rules compliant. With that being a long process of mostly waiting the team decided to start manufacturing as we were confident in the frame's rules compliance and that in the case that changed needed to be made we would be able to pivot. We decided that we would also buy the tubes and get them laser cut and notched to fit by OSH Cut to save time manufacturing and get a more accurate frame.
 
+Given that manufacturing was imminent the next step was to design a jig to hold all of the tubes in place and make sure the chassis is made with as little deviation from CAD as possible. This was done by using 14 gauge steel to create plates that slot into each other to create a structure that contacts most tubes in 2 or more places so that their position is defined. Shown below is this jig.
+
+![Jig_CAD](../images/Jig_CAD.png)
+
+Once the design of the jig was complete the team purchased the steel I had the plates cut on our schools waterjet, assembled the jig, then once the tubes arrived assembled the frame as shown below.
 
 ![Chassis in jig](../images/chassis_in_jig.jpg)
+
