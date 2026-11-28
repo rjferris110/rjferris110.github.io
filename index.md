@@ -12,4 +12,4 @@ Welcome to my portfolio. Here is a selection of my recent engineering projects.
 
 ## Contact & Links
 * **GitHub:** [github.com/rjferris110](https://github.com/rjferris110)
-* **LinkedIn:** [linkedin.com/in/riley-ferris-376a02336]([www.linkedin.com/in/riley-ferris-376a02336](https://www.linkedin.com/in/riley-ferris-376a02336/))
+* **LinkedIn:** [linkedin.com/in/riley-ferris-376a02336](https://www.linkedin.com/in/riley-ferris-376a02336/)
