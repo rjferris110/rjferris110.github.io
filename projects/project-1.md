@@ -1,6 +1,8 @@
 ## Formula SAE Chassis
 
-  One of my biggest projects has been designing and fabricating a tube chassis for my school's Formula SAE team. Due to various rules changes, switching to internal combustion from an electric powertrain, and multiple years of design without any validation this was quite the undertaking. Fortunately I had the guidance of many of my predecessors to aid me.
+  One of my biggest projects has been designing and fabricating a tube chassis for my school's Formula SAE team. Due to various rules changes, switching to internal combustion from an electric powertrain, and multiple years of design without any validation this was quite the undertaking. Fortunately I had the guidance of many of my predecessors to aid me. Shown below is the previous years frame.
+
+![Old Frame](../images/Old_Frame.png)
 
   The first step of the design process was establishing a 2 dimensional ergonomics model in CAD based on previous driver data. This allowed me to establish the location of both the front and main hoops in such a way that they were as low as possible while meeting all rules and keeping the driver in a comfortable position. Shown below is this 2D model.
 
@@ -28,3 +30,4 @@
 
 ![Chassis in jig](../images/chassis_in_jig.jpg)
 
+In the end I was able do trim just over 15lbs from the frame. This was partially due to the rules allowing for thinner rear tubing in IC cars. The other main source of weight reduction came from working with the suspension team to redesign the front suspension to allow for much simpler mounting which required fewer tubes in the front.
